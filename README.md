@@ -29,7 +29,7 @@ Follow these steps to set up the DDoS attack script:
 
 ```bash
 # Clone the Repository
-git clone https://github.com/Ha3MrX/DDos-Attack
+git clone https://github.com/oscarmine/DDos-Attack
 
 # Unzip the downloaded file
 unzip DDos-Attack
