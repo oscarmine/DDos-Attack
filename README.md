@@ -41,4 +41,4 @@ cd DDos-Attack
 python2 ddos-attack.py
 ```
 🖼️ Screenshot
-[Screenshot](Screenshot.png)
+![Screenshot](Screenshot.png)
